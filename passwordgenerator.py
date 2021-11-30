@@ -1,7 +1,7 @@
  #importing Libraries
 
 from tkinter import *
-import random
+import random,string
 import pyperclip
 
 
